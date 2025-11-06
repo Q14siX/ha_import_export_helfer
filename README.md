@@ -1,3 +1,5 @@
+[![Version](https://img.shields.io/github/v/release/Q14siX/ha_import_export_helfer)](https://github.com/Q14siX/ha_import_export_helfer/releases) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Languages](https://img.shields.io/badge/languages-1-blue.svg) ![Status](https://img.shields.io/badge/status-stable-brightgreen.svg) ![Downloads](https://img.shields.io/github/downloads/Q14siX/ha_import_export_helfer/total)
+
 # Import / Export Helfer – Home Assistant Add-on
 
 Ein Add-on, um **einzelne Home‑Assistant‑Elemente gezielt zu exportieren und wieder zu importieren** – ideal zum Migrieren zwischen Instanzen oder für punktuelle Backups (Helfer, Automationen, Skripte, Szenen, Blueprints).
