@@ -86,14 +86,14 @@ Dieses Add‑on wird über das Add‑on‑Repository bereitgestellt:
 
 -----
 
-## 📄 Lizenz
-
-Dieses Add‑on steht unter der **MIT-Lizenz**.
-Siehe die Datei [`LICENSE`](https://www.google.com/search?q=../LICENSE) im Repository‑Root.
-
------
-
 ## 📨 Support / Issues
 
 Issues und Feature‑Requests bitte hier erstellen:  
 [https://github.com/Q14siX/ha\_import\_export\_helfer/issues](https://github.com/Q14siX/ha_import_export_helfer/issues)
+
+-----
+
+## 📄 Lizenz
+
+Dieses Add‑on steht unter der **MIT-Lizenz**.
+Siehe die Datei [`LICENSE`](https://www.google.com/search?q=../LICENSE) im Repository‑Root.
