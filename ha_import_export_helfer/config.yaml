@@ -1,5 +1,5 @@
 name: "Import / Export Helfer"
-version: "v20251106.1800"
+version: "v20251107.1623"
 slug: "import_export_helfer"
 description: "Sichert und stellt einzelne Home Assistant Elemente (Helfer, YAML, etc.) wieder her."
 arch:
