@@ -31,13 +31,13 @@ Die Benutzeroberfläche ist vollständig responsiv und passt sich an alle Bildsc
 
 | Exportieren | Importieren |
 | :---: | :---: |
-| ![Desktop-Exportieren](Schreenshots/Desktop-Export.png) | ![Desktop-Importieren](Schreenshots/Desktop-Import.png) |
+| ![DesktopExportieren](images/desktop_export.png) | ![DesktopImportieren](images/desktop_import.png) |
 
 ### Mobile-Ansicht
 
 | Exportieren | Importieren |
 | :---: | :---: |
-| ![Mobil-Exportieren](Schreenshots/Mobil-Export.png) | ![Mobil-Importieren](Schreenshots/Mobil-Import.png) |
+| ![MobilExportieren](images/mobil_export.png) | ![MobilImportieren](images/mobil_import.png) |
 
 -----
 
