@@ -54,20 +54,17 @@ Die Benutzeroberfläche ist vollständig responsiv und passt sich an alle Bildsc
 
 ```
 ha_import_export_helfer/
-├─ repository.json
+├─ build.yaml
+├─ config.yaml
+├─ Dockerfile
+├─ run.sh
 ├─ README.md
-└─ ha_import_export_helfer/
-   ├─ build.yaml
-   ├─ config.yaml
-   ├─ Dockerfile
-   ├─ run.sh
-   ├─ README.md
-   ├─ icon.png
-   └─ app/
-      ├─ main.py
-      ├─ requirements.txt
-      └─ templates
-         └─ index.html
+├─ icon.png
+└─ app/
+   ├─ main.py
+   ├─ requirements.txt
+   └─ templates
+      └─ index.html
 ```
 
 **repository.json (Beispiel):**
