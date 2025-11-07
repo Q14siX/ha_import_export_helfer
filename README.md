@@ -2,8 +2,6 @@
 
 -----
 
-[](https://github.com/Q14siX/ha_import_export_helfer/releases) [](https://www.google.com/search?q=LICENSE)   
-
 # Import / Export Helfer – Home Assistant Add-on
 
 Ein Add-on, um **einzelne Home‑Assistant‑Elemente gezielt zu exportieren und wieder zu importieren** – ideal zum Migrieren zwischen Instanzen oder für punktuelle Backups (Helfer, Automationen, Skripte, Szenen, Blueprints).
