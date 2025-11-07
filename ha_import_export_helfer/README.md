@@ -26,13 +26,13 @@ Die Benutzeroberfläche ist vollständig responsiv und passt sich an alle Bildsc
 
 | Exportieren | Importieren |
 | :---: | :---: |
-| ![DesktopExportieren](images/desktop_export.png) | ![DesktopImportieren](images/desktop_import.png) |
+| ![DesktopExportieren](https://raw.githubusercontent.com/Q14siX/ha_import_export_helfer/main/images/desktop_export.png) | ![DesktopImportieren](https://raw.githubusercontent.com/Q14siX/ha_import_export_helfer/main/images/desktop_import.png) |
 
 ### Mobile-Ansicht
 
 | Exportieren | Importieren |
 | :---: | :---: |
-| ![MobilExportieren](images/mobil_export.png) | ![MobilImportieren](images/mobil_import.png) |
+| ![MobilExportieren](https://raw.githubusercontent.com/Q14siX/ha_import_export_helfer/main/images/mobil_export.png) | ![MobilImportieren](https://raw.githubusercontent.com/Q14siX/ha_import_export_helfer/main/images/mobil_import.png) |
 
 -----
 
