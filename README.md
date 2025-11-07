@@ -56,7 +56,8 @@ Die Benutzeroberfläche ist vollständig responsiv und passt sich an alle Bildsc
 ha_import_export_helfer/
 ├─ repository.json
 ├─ README.md
-└─ import_export_helfer/
+└─ ha_import_export_helfer/
+   ├─ build.yaml
    ├─ config.yaml
    ├─ Dockerfile
    ├─ run.sh
