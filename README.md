@@ -55,14 +55,18 @@ Die Benutzeroberfläche ist vollständig responsiv und passt sich an alle Bildsc
 ```
 ha_import_export_helfer/
 ├─ repository.json
-├─ README.md                 # diese Datei
-└─ import_export_helfer/     # Add-on-Ordner (Slug)
+├─ README.md
+└─ import_export_helfer/
    ├─ config.yaml
    ├─ Dockerfile
    ├─ run.sh
-   ├─ README.md              # Add-on-spezifische Details/Changelog
-   ├─ logo.png / icon.png
-   └─ app/…                  # dein Code (z. B. FastAPI/Flask)
+   ├─ README.md
+   ├─ icon.png
+   └─ app/
+      ├─ main.py
+      ├─ requirements.txt
+      └─ templates
+         └─ index.html
 ```
 
 **repository.json (Beispiel):**
@@ -165,4 +169,4 @@ jobs:
 
 ## 📄 Lizenz
 
-Dieses Repository steht unter der **MIT-Lizenz**. Siehe [`LICENSE`](https://www.google.com/search?q=./LICENSE).
+Dieses Repository steht unter der **MIT-Lizenz**. Siehe [`LICENSE`](https://github.com/Q14siX/ha_import_export_helfer/blob/main/LICENSE).
